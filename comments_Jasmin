@@ -1,0 +1,8 @@
+- alle Tabellen haben einen Primary Key
+- Attribute haben sinnvollen Datentypen
+- Fremdschlüssel sind richtig gesetzt
+- Entitäten sauber und einheitlich benannt!
+
+Mir ist nur etwas aufgefallen: und zwar hast du beim Event definiert, dass die Time NOT NULL sein darf aber das Datum darf NULL sein - würde wahrscheinlich eher umgekehrt Sinn machen oder dass beide NOT NULL sein dürfen (ist aber nur eine Kleinigkeit)
+
+Sehr schöne und saubere Lösung!
